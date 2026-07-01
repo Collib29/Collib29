@@ -1,4 +1,4 @@
-﻿Time_Point_(Week#),Media_type,Flow_type,Centrifuged,405nm_alkP,488nm_VFz_abs,560nm_alamB,488nm_VF_FL
+﻿Time_Point_(Week#),Media_type,Flow_Rate_(µl/min),Centrifuged_(g_equiv),405nm_alkP,488nm_VFz_abs,560nm_alamB,488nm_VF_FL
 1,Std,0,1,0.180,0.200,0.372,"204,800"
 1,Std,50,1,0.310,0.120,0.710,"122,880"
 1,Std,100,1,0.330,0.130,0.258,"133,120"
